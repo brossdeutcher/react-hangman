@@ -1,6 +1,6 @@
-import GuessForm from './components/GuessForm'
-import WordDisplay from './components/WordDisplay'
-import Graveyard from './components/Graveyard'
+import GuessForm from './GuessForm'
+import WordDisplay from './WordDisplay'
+import Graveyard from './Graveyard'
 
 const Game = () => {
   return (
